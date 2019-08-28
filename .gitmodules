@@ -1,0 +1,6 @@
+[submodule "rplidar"]
+	path = rplidar
+	url = https://github.com/SkoltechRobotics/rplidar.git
+[submodule "pycreate2"]
+	path = pycreate2
+	url = https://github.com/MomsFriendlyRobotCompany/pycreate2.git
