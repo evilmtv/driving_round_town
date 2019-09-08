@@ -1,6 +1,0 @@
-[submodule "rplidar"]
-	path = rplidar
-	url = https://github.com/evilmtv/rplidar.git
-[submodule "pycreate2"]
-	path = pycreate2
-	url = https://github.com/evilmtv/pycreate2.git
